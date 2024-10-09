@@ -1,0 +1,54 @@
+{
+  "salgados": [
+    {
+      "nome": "Coxinha",
+      "quantidade": 3000,
+      "comentario": "A coxinha é a estrela de qualquer festa, sempre desaparecendo rapidamente!"
+    },
+    {
+      "nome": "Pastel",
+      "quantidade": 2500,
+      "comentario": "Não tem como resistir a um pastel crocante e recheado; é pura felicidade!"
+    },
+    {
+      "nome": "Pão de Queijo",
+      "quantidade": 1500,
+      "comentario": "O pão de queijo é meu conforto; quentinho, é impossível comer só um!"
+    },
+    {
+      "nome": "Esfiha",
+      "quantidade": 1200,
+      "comentario": "As esfihas são versáteis e sempre me surpreendem com os recheios!"
+    },
+    {
+      "nome": "Kibe",
+      "quantidade": 800,
+      "comentario": "O kibe é perfeito: crocante por fora e suculento por dentro!"
+    },
+    {
+      "nome": "Bolinha de Queijo",
+      "quantidade": 600,
+      "comentario": "Bolinha de queijo é meu petisco favorito; derretendo na boca, é amor à primeira mordida!"
+    },
+    {
+      "nome": "Risoles",
+      "quantidade": 500,
+      "comentario": "Risoles têm um charme especial; adoro a combinação do recheio cremoso com a casquinha!"
+    },
+    {
+      "nome": "Tapioca",
+      "quantidade": 400,
+      "comentario": "A tapioca é leve e sempre dá uma sensação de frescor; gosto de variar os recheios!"
+    },
+    {
+      "nome": "Bolinhos de Bacalhau",
+      "quantidade": 300,
+      "comentario": "Bolinhos de bacalhau são um clássico; só o aroma já me faz querer um!"
+    },
+    {
+      "nome": "Pasta de Salgadinhos",
+      "quantidade": 200,
+      "comentario": "A pasta de salgadinhos é a combinação perfeita para acompanhar qualquer aperitivo!"
+    }
+  ]
+}

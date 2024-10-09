@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+--vermelho-escuro: #780000ff;
+--fogo: #c1121fff;
+--branco: rgb(253, 247, 236);
+--azul-escuro: rgb(44, 12, 171);
+--azul-claro: rgb(8, 118, 186);
+--vermelho: rgb(240, 0, 0);
+--preto: rgb(0, 0, 0);
+--fonte-texto: "font-family: "Pacifico", cursive;";
+--fonte-titulo: "font-family: "Playfair Display", serif;"
+}
+
+body{
+    background-color: var(--branco);
+    font-family: var(--fonte-texto);
+    color: var(--vermelho);
+    height: 100vh;
+}
+
+header{
+    background-color: var(--preto);
+    text-align: center;
+}
+
+h1{
+    font-family: var(--fonte-titulo);
+    font-size: 2em;
+    color: var(--fogo);
+    padding: 1.5rem 0;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    font-weight: 400;
+}
+
+nav a{
+    text-decoration: none;
+    color: var(--azul-escuro);
+    font-size: 1.5rem;
+    margin: 0 2rem 1rem 0;
+    transform: scale(0.9);
+    transition: tranform 0.2s
+}
+
+.caixa-grafico {
+    margin: 2rem;
+    background-color: var(--preto);
+    padding: 2rem;
+    border-radius: 25px;
+    color: var(--branco);
+    border-style: double, 25px, var(--branco);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.caixa-grafico__texto {
+    font-size: 2rem;
+    
+}
+
+span{
+    font-family: var(--fonte-titulo);
+    color: var(--vermelho);
+    font-size: 25px;
+}
+
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--preto);
+    color: var(--branco);
+    width: 100%;
+    height: 2em;
+    margin-top: 2em;
+    font-size: 1.5em;
+}
